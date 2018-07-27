@@ -13,7 +13,6 @@
 		7F63B3462108DFDE00E1D4EA /* AnotherTwoDoo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7F63B3442108DFDE00E1D4EA /* AnotherTwoDoo.xcdatamodeld */; };
 		7F63B3482108DFDF00E1D4EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F63B3472108DFDF00E1D4EA /* Assets.xcassets */; };
 		7F63B34B2108DFDF00E1D4EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F63B3492108DFDF00E1D4EA /* LaunchScreen.storyboard */; };
-		7F63B3532108E21400E1D4EA /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F63B3522108E21400E1D4EA /* Task.swift */; };
 		7F63B3552108F70000E1D4EA /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F63B3542108F70000E1D4EA /* CreateTaskViewController.swift */; };
 		7FC4DF04210B4CEA007C7EA8 /* CompleteTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC4DF03210B4CEA007C7EA8 /* CompleteTaskViewController.swift */; };
 /* End PBXBuildFile section */
@@ -27,7 +26,6 @@
 		7F63B3472108DFDF00E1D4EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F63B34A2108DFDF00E1D4EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7F63B34C2108DFDF00E1D4EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7F63B3522108E21400E1D4EA /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		7F63B3542108F70000E1D4EA /* CreateTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = "<group>"; };
 		7FC4DF03210B4CEA007C7EA8 /* CompleteTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompleteTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -66,7 +64,6 @@
 				7F63B33F2108DFDE00E1D4EA /* TasksViewController.swift */,
 				7FC4DF03210B4CEA007C7EA8 /* CompleteTaskViewController.swift */,
 				7F63B3542108F70000E1D4EA /* CreateTaskViewController.swift */,
-				7F63B3522108E21400E1D4EA /* Task.swift */,
 				7F63B3412108DFDE00E1D4EA /* Main.storyboard */,
 				7F63B3472108DFDF00E1D4EA /* Assets.xcassets */,
 				7F63B3492108DFDF00E1D4EA /* LaunchScreen.storyboard */,
@@ -147,7 +144,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7F63B3532108E21400E1D4EA /* Task.swift in Sources */,
 				7F63B3402108DFDE00E1D4EA /* TasksViewController.swift in Sources */,
 				7FC4DF04210B4CEA007C7EA8 /* CompleteTaskViewController.swift in Sources */,
 				7F63B3462108DFDE00E1D4EA /* AnotherTwoDoo.xcdatamodeld in Sources */,
